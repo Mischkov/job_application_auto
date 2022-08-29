@@ -1,2 +1,2 @@
-# job_application_auto
+# Job Application Auto
 Job application automation.
